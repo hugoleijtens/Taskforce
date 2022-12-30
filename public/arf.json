@@ -1,437 +1,516 @@
 {
   "children": [
     {
-      "children": [
-        {
-          "children": [
-            {
-              "name": "Blockchain Basics Part 1",
-              "type": "url",
-              "url": "https://www.youtube.com/watch?v=_160oMzblY8"
-            },
-            {
-              "name": "Blockchain Basics Part 2",
-              "type": "url",
-              "url": "https://www.youtube.com/watch?v=xIDL_akeras"
-            }
-          ],
-          "name": "Beginner",
-          "type": "folder"
-        },
-        {
-          "children": [
-            {
-              "name": "University of Basel, Center for Innovative Finance ",
-              "type": "url",
-              "url": "https://cif.unibas.ch/en/research/blockchain-/-dlt/"
-            }
-          ],
-          "name": "Advanced",
-          "type": "folder"
-        }
-      ],
       "name": "Basics",
-      "type": "folder"
-    },
-    {
+      "type": "folder",
       "children": [
         {
+          "name": "Beginners",
+          "type": "folder",
           "children": [
             {
-              "name": "Frankfurt School of Finance&Management, Blockchain Center ",
-              "type": "url",
-              "url": "https://www.youtube.com/channel/UC_QUkV7rb0WWyKtWk2dIN5Q"
+              "name": "",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Blockchain Basics part I",
+                  "type": "url",
+                  "url": "Blockchain 101 - A Visual Demo - YouTube"
+                },
+                {
+                  "name": "Blockchain Basics part 2",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=xIDL_akeras"
+                },
+                {
+                  "name": "Blockchain Basics part 2",
+                  "type": "url",
+                  "url": "https://www.dnb.nl/en/innovations-in-payments-and-banking/everything-you-should-know-about-cryptos/"
+                }
+              ]
             }
-          ],
-          "name": "Video",
-          "type": "folder"
+          ]
         },
         {
+          "name": "Advanced",
+          "type": "folder",
           "children": [
             {
-              "name": "University of Basel, Cryptolectures (Smart Contracts, DeFi, Blockchain, Crypoassets)",
-              "type": "url",
-              "url": "https://cryptolectures.teachable.com/"
-            },
-            {
-              "name": "University of Nicosia, free MOOCs",
-              "type": "url",
-              "url": "https://unic.ac.cy/blockchain/free-mooc/"
+              "name": "",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "\"University of Basel",
+                  "type": "url",
+                  "url": " Center for Innovative Finance \""
+                }
+              ]
             }
-          ],
-          "name": "Webinar",
-          "type": "folder"
+          ]
         }
-      ],
+      ]
+    },
+    {
       "name": "Training",
-      "type": "folder"
-    },
-    {
+      "type": "folder",
       "children": [
         {
+          "name": "Video",
+          "type": "folder",
           "children": [
             {
-              "name": "Blockchain (Universal)",
-              "type": "url",
-              "url": "https://www.blockchain.com/explorer"
-            },
-            {
-              "name": "Blockchair (Universal)",
-              "type": "url",
-              "url": "https://blockchair.com/ru/"
-            },
-            {
-              "name": "Bitref",
-              "type": "url",
-              "url": "https://bitref.com/"
-            },
-            {
-              "name": "oxt",
-              "type": "url",
-              "url": "https://oxt.me"
-            },
-            {
-              "name": "blockexplorer",
-              "type": "url",
-              "url": "https://blockexplorer.com/"
-            },
-            {
-              "name": "blockcypher (Universal)",
-              "type": "url",
-              "url": "https://live.blockcypher.com/"
-            },
-            {
-              "name": "Etherscan (Ethereum)",
-              "type": "url",
-              "url": "https://etherscan.io/"
-            },
-            {
-              "name": "xrpl (Ripple)",
-              "type": "url",
-              "url": "https://livenet.xrpl.org/"
-            },
-            {
-              "name": "Blockchair (Bitcoin Cash)",
-              "type": "url",
-              "url": "https://blockchair.com/bitcoin-cash?from=bitcoin.com"
-            },
-            {
-              "name": "Litecoinblockeplorer (Litecoin)",
-              "type": "url",
-              "url": "https://litecoinblockexplorer.net/"
-            },
-            {
-              "name": "Localmonero (Monero)",
-              "type": "url",
-              "url": "https://localmonero.co/blocks"
-            },
-            {
-              "name": "BscScan (Binance Smart Chain)",
-              "type": "url",
-              "url": "https://www.bscscan.com/"
-            },
-            {
-              "name": "Snowtrace (Avalanche C-Chain)",
-              "type": "url",
-              "url": "https://snowtrace.io/"
-            },
-            {
-              "name": "Polygonscan (Polygon/Matic)",
-              "type": "url",
-              "url": "https://ftmscan.com/"
-            },
-            {
-              "name": "FTMScan (Fantom) ",
-              "type": "url",
-              "url": "https://ftmscan.com/"
+              "name": "",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "\"Frankfurt School of Finance&Management",
+                  "type": "url",
+                  "url": " Blockchain Center \""
+                }
+              ]
             }
-          ],
-          "name": "Explorers",
-          "type": "folder"
+          ]
         },
         {
+          "name": "Webinar",
+          "type": "folder",
           "children": [
             {
-              "name": "Crystal (BTC)",
-              "type": "url",
-              "url": "https://explorer.crystalblockchain.com/"
-            },
-            {
-              "name": "Ethtective (ETH)",
-              "type": "url",
-              "url": "https://ethtective.com/"
-            },
-            {
-              "name": "Blockpath",
-              "type": "url",
-              "url": "https://blockpath.com/"
-            },
-            {
-              "name": "Graphsense (Registration)",
-              "type": "url",
-              "url": "https://graphsense.info/"
+              "name": "",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "\"University of Basel",
+                  "type": "url",
+                  "url": " Cryptolectures (Smart Contracts"
+                },
+                {
+                  "name": "\"University of Nicosia",
+                  "type": "url",
+                  "url": " free MOOCs (\"\"introduction digital currencies\"\""
+                }
+              ]
             }
-          ],
-          "name": "Visualization",
-          "type": "folder"
+          ]
         },
         {
+          "name": "Online course",
+          "type": "folder",
           "children": [
             {
-              "name": "Wallet explorer",
-              "type": "url",
-              "url": "https://www.walletexplorer.com/"
-            },
-            {
-              "name": "Crystal explorer",
-              "type": "url",
-              "url": "https://explorer.crystalblockchain.com/"
+              "name": "",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Cepol (LEA only with credentials)",
+                  "type": "url",
+                  "url": "https://leed.cepol.europa.eu/blocks/thematic_areas/courseview.php?categoryid=71"
+                }
+              ]
             }
-          ],
-          "name": "Wallet Identification",
-          "type": "folder"
-        },
-        {
-          "children": [
-            {
-              "name": "cryptotxalert",
-              "type": "url",
-              "url": "https://www.cryptotxalert.com/"
-            },
-            {
-              "name": "cryptocurrency alerting",
-              "type": "url",
-              "url": "https://cryptocurrencyalerting.com/wallet-watch.html"
-            }
-          ],
-          "name": "Monitoring",
-          "type": "folder"
-        },
-        {
-          "children": [
-            {
-              "name": "bitcoinabuse",
-              "type": "url",
-              "url": "https://www.bitcoinabuse.com/"
-            },
-            {
-              "name": "Bitcoinwhoswho",
-              "type": "url",
-              "url": "https://www.bitcoinwhoswho.com/"
-            },
-            {
-              "name": "Bitrankverified",
-              "type": "url",
-              "url": "https://bitrankverified.com/"
-            },
-            {
-              "name": "Intelx",
-              "type": "url",
-              "url": "https://intelx.io/tools?tab=bitcoin"
-            }
-          ],
-          "name": "Alerts/Abuse",
-          "type": "folder"
-        },
-        {
-          "children": [
-            {
-              "name": "Chainalysis Reactor",
-              "type": "url",
-              "url": "https://reactor.chainalysis.com/"
-            },
-            {
-              "name": "Ciphertrace Inspector",
-              "type": "url",
-              "url": "https://ciphertrace.com/"
-            },
-            {
-              "name": "TRM Labs",
-              "type": "url",
-              "url": "https://www.trmlabs.com/"
-            },
-            {
-              "name": "Elliptic",
-              "type": "url",
-              "url": "https://www.elliptic.co/"
-            }
-          ],
-          "name": "Commercial Tools",
-          "type": "folder"
+          ]
         }
-      ],
+      ]
+    },
+    {
       "name": "Tooling",
-      "type": "folder"
-    },
-    {
+      "type": "folder",
       "children": [
         {
+          "name": "Open Source",
+          "type": "folder",
           "children": [
             {
-              "name": "Overview: Vision, Technology",
-              "type": "url",
-              "url": "http://www2.deloitte.com/cn/en/pages/technology-media-and-telecommunications/articles/metaverse-report.html"
+              "name": "Explorers",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Blockchain (Universal)",
+                  "type": "url",
+                  "url": "https://www.blockchain.com/explorer"
+                },
+                {
+                  "name": "Blockchair (Universal)",
+                  "type": "url",
+                  "url": "https://blockchair.com/ru/"
+                },
+                {
+                  "name": "Bitref",
+                  "type": "url",
+                  "url": "https://bitref.com/"
+                },
+                {
+                  "name": "oxt",
+                  "type": "url",
+                  "url": "https://oxt.me/"
+                },
+                {
+                  "name": "blockexplorer",
+                  "type": "url",
+                  "url": "https://blockexplorer.com/"
+                },
+                {
+                  "name": "blockcypher (Universal)",
+                  "type": "url",
+                  "url": "https://live.blockcypher.com/"
+                },
+                {
+                  "name": "Etherscan (Ethereum)",
+                  "type": "url",
+                  "url": "https://etherscan.io/"
+                },
+                {
+                  "name": "xrpl (Ripple)",
+                  "type": "url",
+                  "url": "https://livenet.xrpl.org/"
+                },
+                {
+                  "name": "Blockchair (Bitcoin Cash)",
+                  "type": "url",
+                  "url": "https://blockchair.com/bitcoin-cash?from=bitcoin.com"
+                },
+                {
+                  "name": "Litecoinblockeplorer (Litecoin)",
+                  "type": "url",
+                  "url": "https://litecoinblockexplorer.net/"
+                },
+                {
+                  "name": "Localmonero (Monero)",
+                  "type": "url",
+                  "url": "https://localmonero.co/blocks"
+                },
+                {
+                  "name": "BscScan (Binance Smart Chain)",
+                  "type": "url",
+                  "url": "https://www.bscscan.com/"
+                },
+                {
+                  "name": "Snowtrace (Avalanche C-Chain)",
+                  "type": "url",
+                  "url": "https://snowtrace.io/"
+                },
+                {
+                  "name": "Polygonscan (Polygon/Matic)",
+                  "type": "url",
+                  "url": "https://polygonscan.com/"
+                },
+                {
+                  "name": "FTMScan (Fantom) ",
+                  "type": "url",
+                  "url": "https://ftmscan.com/"
+                }
+              ]
             },
             {
-              "name": "Overview: Metaverse & Money",
-              "type": "url",
-              "url": "http://icg.citi.com/icghome/what-we-think/citigps/insights/metaverse-and-money_20220330"
+              "name": "Visualization",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Crystal (BTC)",
+                  "type": "url",
+                  "url": "https://explorer.crystalblockchain.com/"
+                },
+                {
+                  "name": "Ethtective (ETH)",
+                  "type": "url",
+                  "url": "https://ethtective.com/"
+                },
+                {
+                  "name": "Blockpath",
+                  "type": "url",
+                  "url": "https://blockpath.com/"
+                },
+                {
+                  "name": "Graphsense (Registration)",
+                  "type": "url",
+                  "url": "https://graphsense.info/"
+                },
+                {
+                  "name": "\"Breadcrumbs (BTC",
+                  "type": "url",
+                  "url": " ETH"
+                }
+              ]
             },
             {
-              "name": "Overview including: NFT, DeFi, Web3",
-              "type": "url",
-              "url": "http://chaindebrief.com/research/into-the-metaverse-comprehensive-report/"
+              "name": "Wallet Identification",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Wallet explorer",
+                  "type": "url",
+                  "url": "https://www.walletexplorer.com/"
+                },
+                {
+                  "name": "Crystal explorer",
+                  "type": "url",
+                  "url": "https://explorer.crystalblockchain.com/"
+                }
+              ]
+            },
+            {
+              "name": "Monitoring",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "cryptotxalert",
+                  "type": "url",
+                  "url": "https://www.cryptotxalert.com/"
+                },
+                {
+                  "name": "cryptocurrency alerting",
+                  "type": "url",
+                  "url": "https://cryptocurrencyalerting.com/wallet-watch.html"
+                }
+              ]
+            },
+            {
+              "name": "Alerts/Abuse",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "bitcoinabuse",
+                  "type": "url",
+                  "url": "https://www.bitcoinabuse.com/"
+                },
+                {
+                  "name": "Bitcoinwhoswho",
+                  "type": "url",
+                  "url": "https://www.bitcoinwhoswho.com/"
+                },
+                {
+                  "name": "Bitrankverified",
+                  "type": "url",
+                  "url": "https://bitrankverified.com/"
+                },
+                {
+                  "name": "Intelx",
+                  "type": "url",
+                  "url": "https://intelx.io/tools?tab=bitcoin"
+                }
+              ]
             }
-          ],
-          "name": "Metaverse",
-          "type": "folder"
+          ]
         },
         {
+          "name": "Commercial",
+          "type": "folder",
           "children": [
             {
-              "name": "TODO",
-              "type": "url",
-              "url": "https://placeholderfordomain.com"
+              "name": "Visualization",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Chainalysis Reactor",
+                  "type": "url",
+                  "url": "https://reactor.chainalysis.com/"
+                },
+                {
+                  "name": "Ciphertrace Inspector",
+                  "type": "url",
+                  "url": "https://ciphertrace.com/"
+                },
+                {
+                  "name": "TRM Labs",
+                  "type": "url",
+                  "url": "https://www.trmlabs.com/"
+                },
+                {
+                  "name": "Elliptic",
+                  "type": "url",
+                  "url": "https://www.elliptic.co/"
+                }
+              ]
             }
-          ],
-          "name": "Non Public",
-          "type": "folder"
+          ]
+        },
+        {
+          "name": "Public ",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Metaverse ",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "\"Overview: Vision",
+                  "type": "url",
+                  "url": " Technology\""
+                },
+                {
+                  "name": "Overview: Metaverse & Money ",
+                  "type": "url",
+                  "url": "icg.citi.com/icghome/what-we-think/citigps/insights/metaverse-and-money_20220330"
+                },
+                {
+                  "name": "Overview including: NFT&DeFi&Web 3.0",
+                  "type": "url",
+                  "url": "chaindebrief.com/research/into-the-metaverse-comprehensive-report/"
+                },
+                {
+                  "name": "Fighting Crypto Crime in Web 3.0",
+                  "type": "url",
+                  "url": "www.elliptic.co/resources/crime-in-the-metaverse"
+                },
+                {
+                  "name": "Metaverse related Papers EU ",
+                  "type": "url",
+                  "url": "metaverse-paper-9-march-2022.pdf (europa.eu)"
+                },
+                {
+                  "name": "Metaverse related Papers EU ",
+                  "type": "url",
+                  "url": "\"Metaverse: Opportunities"
+                },
+                {
+                  "name": "Chainalysis Report on Metaverse",
+                  "type": "url",
+                  "url": "https://go.chainalysis.com/rs/503-FAP-074/images/state-of-web3.pdf"
+                },
+                {
+                  "name": "Research Paper ",
+                  "type": "url",
+                  "url": "\"Metaverse beyond the hype: Multidisciplinary perspectives on emerging challenges"
+                }
+              ]
+            },
+            {
+              "name": "Decentralized Autonomous Org. (DAO)",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "\"DAO: Beyond the Hype",
+                  "type": "url",
+                  "url": " WEF White Paper 2022\""
+                }
+              ]
+            }
+          ]
         }
-      ],
-      "name": "Trends",
-      "type": "folder"
+      ]
     },
     {
+      "name": "Regulations ",
+      "type": "folder",
       "children": [
         {
+          "name": "Public ",
+          "type": "folder",
           "children": [
             {
-              "name": "Cryptocurrency regulations by country (global) as of 2022",
-              "type": "url",
-              "url": "http://thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2022/04/Cryptos-Report-Compendium-2022.pdf"
+              "name": " ",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Cryptocurrency regulations by country (global) as of 2022",
+                  "type": "url",
+                  "url": "thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2022/04/Cryptos-Report-Compendium-2022.pdf"
+                }
+              ]
             }
-          ],
-          "name": "Global",
-          "type": "folder"
+          ]
         }
-      ],
-      "name": "Regulations",
-      "type": "folder"
+      ]
     },
     {
-      "children": [
-        {
-          "children": [
-            {
-              "name": "Glassnode",
-              "type": "url",
-              "url": "https://www.glassnode.com"
-            },
-            {
-              "name": "Nansen",
-              "type": "url",
-              "url": "http://www.nansen.ai/"
-            }
-          ],
-          "name": "Analytics",
-          "type": "folder"
-        },
-        {
-          "children": [
-            {
-              "name": "Coinmarketcap",
-              "type": "url",
-              "url": "https://www.coinmarketcap.com"
-            },
-            {
-              "name": "CoinGecko",
-              "type": "url",
-              "url": "https://www.coingecko.com"
-            }
-          ],
-          "name": "Prices",
-          "type": "folder"
-        },
-        {
-          "children": [
-            {
-              "name": "Binance",
-              "type": "url",
-              "url": "https://www.binance.com"
-            },
-            {
-              "name": "FTX",
-              "type": "url",
-              "url": "https://www.ftx.com"
-            },
-            {
-              "name": "Coinbase",
-              "type": "url",
-              "url": "https://www.coinbase.com"
-            },
-            {
-              "name": "Kraken",
-              "type": "url",
-              "url": "https://www.kraken.com"
-            },
-            {
-              "name": "Kucoin",
-              "type": "url",
-              "url": "https://www.Kucoin.com"
-            },
-            {
-              "name": "Gate.io",
-              "type": "url",
-              "url": "https://www.gate.io"
-            },
-            {
-              "name": "Huobi Global",
-              "type": "url",
-              "url": "https://www.huobi.com"
-            },
-            {
-              "name": "Gemini",
-              "type": "url",
-              "url": "https://www.gemini.com"
-            },
-            {
-              "name": "Bitfinex",
-              "type": "url",
-              "url": "https://www.bitfinex.com"
-            },
-            {
-              "name": "Coinmama",
-              "type": "url",
-              "url": "https://www.coinmama.com"
-            }
-          ],
-          "name": "Largest Global Exchanges",
-          "type": "folder"
-        },
-        {
-          "children": [
-            {
-              "name": "Coin ATM Radar",
-              "type": "url",
-              "url": "https://coinatmradar.com/"
-            },
-            {
-              "name": "Coinmap",
-              "type": "url",
-              "url": "https://coinmap.org/"
-            },
-            {
-              "name": "Coincash",
-              "type": "url",
-              "url": "https://coincash.eu/"
-            }
-          ],
-          "name": "Crypto ATM",
-          "type": "folder"
-        }
-      ],
       "name": "Market Data",
-      "type": "folder"
+      "type": "folder",
+      "children": [
+        {
+          "name": "Analytics",
+          "type": "folder",
+          "children": [
+            {
+              "name": "",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Glassnode",
+                  "type": "url",
+                  "url": "www.glassnode.com"
+                },
+                {
+                  "name": "Nansen",
+                  "type": "url",
+                  "url": "www.nansen.ai"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Prices",
+          "type": "folder",
+          "children": [
+            {
+              "name": "",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Coinmarketcap",
+                  "type": "url",
+                  "url": "www.coinmarketcap.com"
+                },
+                {
+                  "name": "Coingecko",
+                  "type": "url",
+                  "url": "www.coingecko.com"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Crypto ATM's",
+          "type": "folder",
+          "children": [
+            {
+              "name": "",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Coin ATM Radar (maps by country)",
+                  "type": "url",
+                  "url": "https://coinatmradar.com/"
+                },
+                {
+                  "name": "Coin Map",
+                  "type": "url",
+                  "url": "https://coinmap.org/"
+                },
+                {
+                  "name": "Coin Cash",
+                  "type": "url",
+                  "url": "https://coincash.eu/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Publications",
+      "type": "folder",
+      "children": [
+        {
+          "name": "",
+          "type": "folder",
+          "children": [
+            {
+              "name": "",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Tracing cryptocurrencies",
+                  "type": "url",
+                  "url": "https://www.europol.europa.eu/publications-events/publications/cryptocurrencies-tracing-evolution-of-criminal-finances"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

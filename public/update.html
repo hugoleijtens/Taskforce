@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSV to JSON Converter</title>
+    <script>
+        function convertCSVToJSON() {
+            // Get the CSV content
+            var csv = document.getElementById('csvContent').value;
+
+            // Split the CSV into lines
+            var lines = csv.split(/\r?\n/);
+
+            // Check if the CSV has the expected format
+            if (lines[0] !== 'Main Menu,Sub Menu,Sub Menu,Name,Links') {
+                document.getElementById('jsonOutput').value = 'The CSV does not have the expected format.';
+                return;
+            }
+
+            // Create the output object
+            var outputJSON = {
+                children: []
+            };
+
+            // Iterate over the lines
+            for (var i = 1; i < lines.length; i++) {
+                // Split the line into columns
+                var columns = lines[i].split(',');
+
+                // Create a temporary object to store the data
+                var tempObj = {
+                    name: columns[3],
+                    type: 'url',
+                    url: columns[4]
+                };
+
+                // Check if the sub menu exists in the output object
+                if (!outputJSON.children.find(x => x.name === columns[0])) {
+                    // Add the main menu to the output object
+                    outputJSON.children.push({
+                        name: columns[0],
+                        type: 'folder',
+                        children: []
+                    });
+                }
+
+                // Get the index of the main menu
+                var mainMenuIndex = outputJSON.children.findIndex(x => x.name === columns[0]);
+
+                // Check if the sub menu exists in the main menu
+                if (!outputJSON.children[mainMenuIndex].children.find(x => x.name === columns[1])) {
+                    // Add the sub menu to the main menu
+                    outputJSON.children[mainMenuIndex].children.push({
+                        name: columns[1],
+                        type: 'folder',
+                        children: []
+                    });
+                }
+
+                // Get the index of the sub menu
+                var subMenuIndex = outputJSON.children[mainMenuIndex].children.findIndex(x => x.name === columns[1]);
+
+                // Check if the second sub menu exists
+                if (!outputJSON.children[mainMenuIndex].children[subMenuIndex].children.find(x => x.name === columns[2])) {
+                    // Add the second sub menu
+                    outputJSON.children[mainMenuIndex].children[subMenuIndex].children.push({
+                        name: columns[2],
+                        type: 'folder',
+                        children: []
+                    });
+                }
+
+                // Get the index of the second sub menu
+                var secondSubMenuIndex = outputJSON.children[mainMenuIndex].children[subMenuIndex].children.findIndex(x => x.name === columns[2]);
+
+                // Add the item to the second sub menu
+                outputJSON.children[mainMenuIndex].children[subMenuIndex].children[secondSubMenuIndex].children.push(tempObj);
+            }
+
+            // Write the output JSON to the output text area
+            document.getElementById('jsonOutput').value = JSON.stringify(outputJSON, null, 2);
+        }
+    </script>
+</head>
+<body>
+    <h1>CSV to JSON Converter</h1>
+    <textarea id="csvContent" rows="10" cols="50" placeholder="Paste the CSV content here"></textarea><br>
+    <input type="button" value="Convert to JSON" onclick="convertCSVToJSON()"><br><br>
+    <textarea id="jsonOutput" rows="10" cols="50" placeholder="The JSON output will be displayed here"></textarea>
+</body>
+</html>
