@@ -40,9 +40,9 @@
               "type": "folder",
               "children": [
                 {
-                  "name": "\"University of Basel",
+                  "name": "University of Basel Center for Innovative Finance",
                   "type": "url",
-                  "url": " Center for Innovative Finance \""
+                  "url": "https://cif.unibas.ch/en/research/blockchain-/-dlt/"
                 }
               ]
             }
@@ -63,9 +63,9 @@
               "type": "folder",
               "children": [
                 {
-                  "name": "\"Frankfurt School of Finance&Management",
+                  "name": "Frankfurt School of Finance & Management Blockchain Center",
                   "type": "url",
-                  "url": " Blockchain Center \""
+                  "url": "https://www.youtube.com/channel/UC_QUkV7rb0WWyKtWk2dIN5Q"
                 }
               ]
             }
@@ -80,14 +80,14 @@
               "type": "folder",
               "children": [
                 {
-                  "name": "\"University of Basel",
+                  "name": "University of Basel Cryptolectures (Smart Contracts)",
                   "type": "url",
-                  "url": " Cryptolectures (Smart Contracts"
+                  "url": "https://cryptolectures.teachable.com/"
                 },
                 {
-                  "name": "\"University of Nicosia",
+                  "name": "University of Nicosia free MOOCs (introduction digital currencies",
                   "type": "url",
-                  "url": " free MOOCs (\"\"introduction digital currencies\"\""
+                  "url": "https://unic.ac.cy/blockchain/free-mooc/"
                 }
               ]
             }
@@ -226,7 +226,7 @@
                   "url": "https://graphsense.info/"
                 },
                 {
-                  "name": "\"Breadcrumbs (BTC",
+                  "name": "Breadcrumbs (BTC",
                   "type": "url",
                   "url": " ETH"
                 }
@@ -333,9 +333,9 @@
               "type": "folder",
               "children": [
                 {
-                  "name": "\"Overview: Vision",
+                  "name": "Overview: Vision",
                   "type": "url",
-                  "url": " Technology\""
+                  "url": " Technology"
                 },
                 {
                   "name": "Overview: Metaverse & Money ",
@@ -379,9 +379,9 @@
               "type": "folder",
               "children": [
                 {
-                  "name": "\"DAO: Beyond the Hype",
+                  "name": "DAO: Beyond the Hype",
                   "type": "url",
-                  "url": " WEF White Paper 2022\""
+                  "url": " WEF White Paper 2022"
                 }
               ]
             }
@@ -545,25 +545,6 @@
                   "name": "List of Hardware Wallet vendor IDs and Product IDs",
                   "type": "url",
                   "url": "https://github.com/INTERPOL-Innovation-Centre/HardwareWallets_DF_List"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "",
-      "type": "folder",
-      "children": [
-        {
-          "type": "folder",
-          "children": [
-            {
-              "type": "folder",
-              "children": [
-                {
-                  "type": "url"
                 }
               ]
             }
