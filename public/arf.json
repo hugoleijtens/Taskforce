@@ -226,9 +226,9 @@
                   "url": "https://graphsense.info/"
                 },
                 {
-                  "name": "Breadcrumbs (BTC",
+                  "name": "Breadcrumbs (BTC, ETH, Polygon, Ronin)"
                   "type": "url",
-                  "url": " ETH"
+                  "url": "https://www.breadcrumbs.app/"
                 }
               ]
             },
@@ -333,9 +333,9 @@
               "type": "folder",
               "children": [
                 {
-                  "name": "Overview: Vision",
+                  "name": "Overview: Vision Technology",
                   "type": "url",
-                  "url": " Technology"
+                  "url": "https://www2.deloitte.com/cn/en/pages/technology-media-and-telecommunications/articles/metaverse-report.html"
                 },
                 {
                   "name": "Overview: Metaverse & Money ",
@@ -345,12 +345,12 @@
                 {
                   "name": "Overview including: NFT&DeFi&Web 3.0",
                   "type": "url",
-                  "url": "chaindebrief.com/research/into-the-metaverse-comprehensive-report/"
+                  "url": "https://chaindebrief.com/research/into-the-metaverse-comprehensive-report/"
                 },
                 {
                   "name": "Fighting Crypto Crime in Web 3.0",
                   "type": "url",
-                  "url": "www.elliptic.co/resources/crime-in-the-metaverse"
+                  "url": "https://www.elliptic.co/resources/crime-in-the-metaverse"
                 },
                 {
                   "name": "Metaverse related Papers EU ",
@@ -427,12 +427,12 @@
                 {
                   "name": "Glassnode",
                   "type": "url",
-                  "url": "www.glassnode.com"
+                  "url": "https://www.glassnode.com"
                 },
                 {
                   "name": "Nansen",
                   "type": "url",
-                  "url": "www.nansen.ai"
+                  "url": "https://www.nansen.ai"
                 }
               ]
             }
@@ -449,12 +449,12 @@
                 {
                   "name": "Coinmarketcap",
                   "type": "url",
-                  "url": "www.coinmarketcap.com"
+                  "url": "https://www.coinmarketcap.com"
                 },
                 {
                   "name": "Coingecko",
                   "type": "url",
-                  "url": "www.coingecko.com"
+                  "url": "https://www.coingecko.com"
                 }
               ]
             }
