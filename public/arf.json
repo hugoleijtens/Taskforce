@@ -15,7 +15,7 @@
                 {
                   "name": "Blockchain Basics part I",
                   "type": "url",
-                  "url": "Blockchain 101 - A Visual Demo - YouTube"
+                  "url": "https://www.youtube.com/watch?v=_160oMzblY8"
                 },
                 {
                   "name": "Blockchain Basics part 2",
@@ -127,7 +127,7 @@
                 {
                   "name": "Blockchain (Universal)",
                   "type": "url",
-                  "url": "https://www.blockchain.com/explorer"
+                  "url": "https://www.blockchain.com/explorer/"
                 },
                 {
                   "name": "Blockchair (Universal)",
@@ -340,7 +340,7 @@
                 {
                   "name": "Overview: Metaverse & Money ",
                   "type": "url",
-                  "url": "icg.citi.com/icghome/what-we-think/citigps/insights/metaverse-and-money_20220330"
+                  "url": "https://icg.citi.com/icghome/what-we-think/citigps/insights/metaverse-and-money_20220330"
                 },
                 {
                   "name": "Overview including: NFT&DeFi&Web 3.0",
@@ -355,12 +355,12 @@
                 {
                   "name": "Metaverse related Papers EU ",
                   "type": "url",
-                  "url": "metaverse-paper-9-march-2022.pdf (europa.eu)"
+                  "url": "https://www.consilium.europa.eu/media/54987/metaverse-paper-9-march-2022.pdf"
                 },
                 {
                   "name": "Metaverse related Papers EU ",
                   "type": "url",
-                  "url": "\"Metaverse: Opportunities"
+                  "url": "https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2022)733557"
                 },
                 {
                   "name": "Chainalysis Report on Metaverse",
@@ -370,7 +370,7 @@
                 {
                   "name": "Research Paper ",
                   "type": "url",
-                  "url": "\"Metaverse beyond the hype: Multidisciplinary perspectives on emerging challenges"
+                  "url": "https://www.sciencedirect.com/science/article/pii/S0268401222000767"
                 }
               ]
             },
@@ -404,7 +404,7 @@
                 {
                   "name": "Cryptocurrency regulations by country (global) as of 2022",
                   "type": "url",
-                  "url": "thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2022/04/Cryptos-Report-Compendium-2022.pdf"
+                  "url": "https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2022/04/Cryptos-Report-Compendium-2022.pdf"
                 }
               ]
             }
@@ -486,6 +486,23 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Tax",
+          "type": "folder",
+          "children": [
+            {
+              "name": "",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Accointing",
+                  "type": "url",
+                  "url": "https://www.accointing.com"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -505,6 +522,48 @@
                   "name": "Tracing cryptocurrencies",
                   "type": "url",
                   "url": "https://www.europol.europa.eu/publications-events/publications/cryptocurrencies-tracing-evolution-of-criminal-finances"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Digital Forensics",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Digital Forensics",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Digital Forensics",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "List of Hardware Wallet vendor IDs and Product IDs",
+                  "type": "url",
+                  "url": "https://github.com/INTERPOL-Innovation-Centre/HardwareWallets_DF_List"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "",
+      "type": "folder",
+      "children": [
+        {
+          "type": "folder",
+          "children": [
+            {
+              "type": "folder",
+              "children": [
+                {
+                  "type": "url"
                 }
               ]
             }
